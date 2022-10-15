@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "55ed6a65bd71de1f4576",
+    "revision": "dc22bedcd40ef08ffc6f",
     "url": "/portafolio/static/css/main.109fe426.chunk.css"
   },
   {
-    "revision": "55ed6a65bd71de1f4576",
-    "url": "/portafolio/static/js/main.1afa2c47.chunk.js"
+    "revision": "dc22bedcd40ef08ffc6f",
+    "url": "/portafolio/static/js/main.98a31500.chunk.js"
   },
   {
     "revision": "38c6ec8701780adaf01e",
     "url": "/portafolio/static/js/runtime~main.2398ee13.js"
   },
   {
-    "revision": "690c3958477dd65b256a",
-    "url": "/portafolio/static/js/2.e06082f5.chunk.js"
+    "revision": "b426536d8c691a125b2d",
+    "url": "/portafolio/static/js/2.bf969f6a.chunk.js"
   },
   {
     "revision": "1ad0af76033d25b423aa",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/portafolio/static/media/Ortografia.bd0c0ca8.jpg"
   },
   {
-    "revision": "0658d01f6a448fa1472b604b99268a69",
+    "revision": "ec0138d65631431fd39cd365d2303bbd",
     "url": "/portafolio/index.html"
   }
 ];
