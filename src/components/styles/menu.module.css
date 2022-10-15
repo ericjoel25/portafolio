@@ -1,0 +1,71 @@
+.menu{
+    z-index: 1;
+    position:fixed;
+    width: 7%;
+    min-width: 6rem;
+    height: 100vh;
+    background-color: #141E30;
+    margin-right: 8rem;
+}
+.fotoContainer{
+    display: flex;
+    width: 6rem;
+    height: 6rem;
+    margin-bottom: 3.5rem;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(19, 19, 19, 0.5);
+}
+.foto{
+  width: 4rem;
+  height: 4rem;
+}
+.btn{
+    display: flex;
+    width: 5rem;
+    height: 1.5rem;
+    outline-color: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    box-sizing: none;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem;
+    margin-bottom: 4rem;
+    color: transparent;
+    text-decoration: none;
+    user-select: none;
+
+    
+}
+
+
+.btn:hover{
+    color: #fff;
+}
+.activate{
+    width: 5rem;
+    height: 1.5rem;
+    position: absolute;
+    color: #4D6981;
+}
+.activate:hover{
+    content: 'hola';
+    color:transparent
+}
+
+.btnIcon{
+    width: 5rem;
+    height: 1.5rem;
+    position: absolute;
+    color: #fff
+}
+
+ .btnIcon:hover{
+  content: 'hola';
+  color:transparent
+}
