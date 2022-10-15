@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ericjoel25.github.io/portafolio/precache-manifest.0bf927e76420fc8075a649f021ac8fda.js"
+  "/portafolio/precache-manifest.f540c352e3f15e912669a0af5d41ba46.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ericjoel25.github.io/portafolio/index.html", {
+workbox.routing.registerNavigationRoute("/portafolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
