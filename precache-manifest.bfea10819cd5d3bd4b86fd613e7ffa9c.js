@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "dc22bedcd40ef08ffc6f",
-    "url": "/portafolio/static/css/main.109fe426.chunk.css"
+    "revision": "9d8e3d5ea279fae83172",
+    "url": "/portafolio/static/css/main.c972a7c6.chunk.css"
   },
   {
-    "revision": "dc22bedcd40ef08ffc6f",
-    "url": "/portafolio/static/js/main.98a31500.chunk.js"
+    "revision": "9d8e3d5ea279fae83172",
+    "url": "/portafolio/static/js/main.a84b61d8.chunk.js"
   },
   {
     "revision": "38c6ec8701780adaf01e",
     "url": "/portafolio/static/js/runtime~main.2398ee13.js"
   },
   {
-    "revision": "b426536d8c691a125b2d",
-    "url": "/portafolio/static/js/2.bf969f6a.chunk.js"
+    "revision": "e1709a7854f3bcf67182",
+    "url": "/portafolio/static/js/2.39530fe3.chunk.js"
   },
   {
     "revision": "1ad0af76033d25b423aa",
@@ -60,15 +60,15 @@ self.__precacheManifest = [
     "url": "/portafolio/static/media/Granja.251b2b00.png"
   },
   {
-    "revision": "43f091e2d1e138073d1a19c680368938",
-    "url": "/portafolio/static/media/venta.43f091e2.png"
+    "revision": "18ae22cd671ca6e3ef6492c3473298e1",
+    "url": "/portafolio/static/media/venta.18ae22cd.png"
   },
   {
-    "revision": "bd0c0ca8f1b5a929c53764b9e26af641",
-    "url": "/portafolio/static/media/Ortografia.bd0c0ca8.jpg"
+    "revision": "bbbc43541c9390e5eda931608e40a3ad",
+    "url": "/portafolio/static/media/Ortografia.bbbc4354.png"
   },
   {
-    "revision": "ec0138d65631431fd39cd365d2303bbd",
+    "revision": "ed3428e35a23d4b62cb9b29ba6b75484",
     "url": "/portafolio/index.html"
   }
 ];
