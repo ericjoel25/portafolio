@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "9d8e3d5ea279fae83172",
-    "url": "/portafolio/static/css/main.c972a7c6.chunk.css"
+    "revision": "4b5a13fff51142ca0e6e",
+    "url": "/portafolio/static/css/main.326292a3.chunk.css"
   },
   {
-    "revision": "9d8e3d5ea279fae83172",
-    "url": "/portafolio/static/js/main.a84b61d8.chunk.js"
+    "revision": "4b5a13fff51142ca0e6e",
+    "url": "/portafolio/static/js/main.95a8a68d.chunk.js"
   },
   {
-    "revision": "38c6ec8701780adaf01e",
-    "url": "/portafolio/static/js/runtime~main.2398ee13.js"
+    "revision": "510c1fdac6783aa1a4ab",
+    "url": "/portafolio/static/js/runtime~main.8ff6a753.js"
   },
   {
-    "revision": "e1709a7854f3bcf67182",
-    "url": "/portafolio/static/js/2.39530fe3.chunk.js"
+    "revision": "fa0960cdc537985f0c76",
+    "url": "/portafolio/static/js/2.368603c8.chunk.js"
   },
   {
-    "revision": "1ad0af76033d25b423aa",
-    "url": "/portafolio/static/js/3.11315e87.chunk.js"
+    "revision": "060090f493f026393f12",
+    "url": "/portafolio/static/js/3.91b51cbc.chunk.js"
   },
   {
     "revision": "be9aab84e294d31ca0bdf0a28d266426",
@@ -68,7 +68,11 @@ self.__precacheManifest = [
     "url": "/portafolio/static/media/Ortografia.bbbc4354.png"
   },
   {
-    "revision": "ed3428e35a23d4b62cb9b29ba6b75484",
+    "revision": "9e496dbd48ca39b99ad51d4299b69244",
+    "url": "/portafolio/static/media/github.9e496dbd.png"
+  },
+  {
+    "revision": "b7fac54b554185a7701c3f4ddce4637c",
     "url": "/portafolio/index.html"
   }
 ];
