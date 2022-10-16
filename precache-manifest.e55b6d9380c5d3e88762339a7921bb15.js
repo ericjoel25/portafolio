@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/portafolio/static/media/github.cd77547a.webp"
   },
   {
-    "revision": "7c1b0b18ec0af37824bc31d6fecf73a3",
+    "revision": "a42ec3a4d711b44763a36085a476ce44",
     "url": "/portafolio/index.html"
   }
 ];
