@@ -9,9 +9,11 @@ import Contact from './pages/portafolio/contact';
 
 
 function App() {
+
+   console.log(process.env.PUBLIC_URL)
   return (
          
-  <HashRouter>     
+  <BrowserRouter basename={process.env.PUBLIC_URL}>     
   
     <Routes>   
  
@@ -28,7 +30,7 @@ function App() {
     </Routes> 
     
   
-  </HashRouter>
+  </BrowserRouter>
 
   );
 }

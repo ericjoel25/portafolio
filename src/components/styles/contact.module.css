@@ -1,7 +1,88 @@
 .container{
-    position: absolute;
+    position: fixed;
     height: 100vh;
     width: 100%;
-    background-color: rebeccapurple;
-   
+ 
+}
+
+.body{
+    display: flex;
+    position: absolute;
+    left: 6rem;
+    height:98vh;
+    width: calc((100% - 6rem));
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: auto;
+}
+.title{
+    width: calc((100% - 6rem));
+    font-size:calc((1vw + 3rem));
+    font-weight: bold;
+    font-family:Georgia;
+    margin-bottom: 1rem;
+    color: rgb(212, 175, 55);
+    word-break: keep-all;
+    
+}
+
+.card{
+    display: flex;
+    width:60%;
+    height: 60%;
+    background-color: rgba(51, 95, 132, 0.4);
+    border-radius: 1rem;
+    justify-content: center;
+    padding: 0 5%;
+    flex-direction: column;
+}
+
+.cardText{
+    color: #fff;
+    font-size: 1.8rem;
+    margin-top: 1rem;
+}
+
+.cardIcon{
+  margin-right: 1rem;
+}
+.github{
+  width: 2rem;
+  height: 2rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+
+
+@media screen and (max-width:767px){
+
+    .body{ 
+        position: absolute;
+        top: 10vh;
+        left:0rem;
+        height:88vh;
+        width:100%;
+        padding-bottom: 2vh;
+        overflow: auto;
+    }
+
+ 
+    .cardText{
+        color: #fff;
+        font-size: 1rem;
+        margin-top: 1rem;
+    }
+    
+    .cardIcon{
+      margin-right: 1rem;
+      font-size: 2rem;
+    }
+    .github{
+      width: 2rem;
+      height: 2rem;
+      margin-top: 0.5rem;
+      margin-right: 0.5rem;
+    }
 }

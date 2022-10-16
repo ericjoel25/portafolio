@@ -2,15 +2,15 @@ import React from "react";
 import Menu from "../../components/menu/menu";
 import skillStyle from "../../components/styles/skill.module.css";
 import Background from "../home/background";
-import firebaseIcon from '../../components/images/Firebase.png';
-import HTMLIcon from '../../components/images/HTML.png';
-import CssIcon from '../../components/images/CSS.png';
-import Javascript from '../../components/images/Javascript.png';
-import ReactIcon from '../../components/images/React.png';
-import ReactNativeIcon from '../../components/images/ReactNative.png';
-import ExpoIcon from '../../components/images/Expo.png';
-import TauriIcon from '../../components/images/Tauri.png';
-import GitIcon from '../../components/images/Git.png';
+import firebaseIcon from '../../components/images/Firebase.webp';
+import HTMLIcon from '../../components/images/HTML.webp';
+import CssIcon from '../../components/images/CSS.webp';
+import Javascript from '../../components/images/Javascript.webp';
+import ReactIcon from '../../components/images/React.webp';
+import ReactNativeIcon from '../../components/images/ReactNative.webp';
+import ExpoIcon from '../../components/images/Expo.webp';
+import TauriIcon from '../../components/images/Tauri.webp';
+import GitIcon from '../../components/images/Git.webp';
 import Typewriter from 'typewriter-effect';
 
 

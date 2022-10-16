@@ -3,7 +3,7 @@ import aboutStyle from '../../components/styles/about.module.css';
 import Menu from "../../components/menu/menu";
 import Background from "../home/background";
 import Typewriter from 'typewriter-effect';
-import foto from '../../components/images/Eric2.png'
+import foto from '../../components/images/Eric2.webp'
 
 export default function About() {
     return (
@@ -12,7 +12,7 @@ export default function About() {
             <Menu />
             <section className={aboutStyle.body}>
                 <article className={aboutStyle.article} >
-                    <div className={aboutStyle.title} >
+                    <span className={aboutStyle.title} >
                         <Typewriter
                             onInit={(typewriter) => {
                                 typewriter.typeString("Who Am I?")
@@ -22,7 +22,7 @@ export default function About() {
                             }}
                         />
 
-                    </div>
+                    </span>
 
                     <p className={aboutStyle.title2}>
                         I am a self-taught programmer, passionate about technology.<br/><br/>
@@ -30,7 +30,6 @@ export default function About() {
                         I am looking for a position where I can use my skills to solve problems with code.
                     </p>
 
-                  
                 </article>
 
                 <article className={aboutStyle.article2} >
